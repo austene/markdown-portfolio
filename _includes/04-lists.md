@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Favorite Things
+- [ ] Chick-fil-a
+- [ ] In-n-Out
+- [ ] Daphne's
+  - [x] Go Tuesday
